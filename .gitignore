@@ -1,0 +1,23 @@
+# Build and Object Folders
+.vs/
+bin/
+obj/
+unpackage/
+dist/
+node_modules/
+
+# Nuget packages
+packages/
+
+# Build Results
+[Dd]dbug/
+[Rr]elease/
+x64/
+*.obj
+*.log
+*.tmp
+.builds
+
+# Test
+TestResults/
+
